@@ -1,0 +1,33 @@
+_repo: Calvert-and-Penn--13-Or-the-Growth-of-Civil-and-Religious-Liberty-in-America-as-Disclosed-in-__32454
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mayer, Brantz
+    birthdate: 1809
+    deathdate: 1879
+    gutenberg_agent_id: '25637'
+    url: http://www.gutenberg.org/2009/agents/25637
+    wikipedia: https://en.wikipedia.org/wiki/Brantz_Mayer
+description: ''
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32454'
+  lccn: 01010408
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pennsylvania -- History -- Colonial period, ca. 1600-1775'
+- !lcsh 'Maryland -- History -- Colonial period, ca. 1600-1775'
+- !lcc 'F106'
+- !lcsh 'Toleration'
+- !lcsh 'Penn, William, 1644-1718'
+- !lcsh 'Baltimore, George Calvert, Baron, 1580?-1632'
+title: "Calvert and Penn\r\nOr the Growth of Civil and Religious Liberty in America,\
+  \ as Disclosed in the Planting of Maryland and Pennsylvania"
+url: http://www.gutenberg.org/ebooks/32454
